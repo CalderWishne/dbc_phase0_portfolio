@@ -1,0 +1,10 @@
+body {
+	background-image:url('http://images.fanpop.com/images/image_uploads/2001--A-Space-Odyssey-the-60s-701989_1024_768.jpg');
+}
+
+li {
+	color: lime;
+	font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+	font-size: large;
+}
+
