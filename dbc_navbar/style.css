@@ -1,0 +1,30 @@
+ul {
+	background-color:#FF00FF;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	border-radius:25%;
+	text-align:center;
+}
+
+li {
+	border-radius:100%;
+	float:center;
+	text-align:center;
+	display:inline-block;
+	padding:10px;
+	margin:5px;
+	background-color:#00FF00;
+}
+
+a {
+	font-family:"Brush Script MT", cursive;
+	font-size: 24px;
+	padding:30px;
+	background-color:#0000FF;
+	color:#FFFF00;
+	margin:10px;
+	border-radius:100%;
+	text-decoration:none;
+}
